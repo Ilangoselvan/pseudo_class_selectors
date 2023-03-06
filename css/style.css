@@ -1,0 +1,22 @@
+/*pseudo class selectors*/
+/*link*/
+a:link{
+	color:red;
+	font-size:25px;
+}
+/*visited*/
+a:visited{
+	color:green;
+}
+/*hover*/
+a:hover{
+	color:blue;
+	background-color:pink;
+	font-size:50px;
+}
+/*active*/
+a:active{
+	color:black;
+	background-color:red;
+	font-size:100px;
+}
